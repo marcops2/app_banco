@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BancoTony</string>
+    <string name="titulo_erro_usuario">ERROR 404</string>
+    <string name="title_sucesso">Sucesso</string>
+    <string name="msg_ok">Ok</string>
+    <string name="simbol_dinheiro">R$</string>
+    <string name="coitado">O coitado</string>
+    <string name="foi_triste">Foi triste, não existe boleto e te roubamos</string>
+    <string name="sem_valor">Você não inseriu um valor</string>
+    <string name="saque_sucesso">Saque realizado com sucesso</string>
+    <string name="deposito_sucesso">Depósito feito com sucesso</string>
+    <string name="msg_sacar">Sacar</string>
+    <string name="msg_fazer_deposito">Fazer depósito</string>
+    <string name="msg_saldo">Saldo</string>
+    <string name="saldo_inicial">R$0,00</string>
+    <string name="hint_digite_valor">Digite o valor</string>
+    <string name="msg_pagar_boleto">Pagar Boleto</string>
+    <string name="negativado">Saldo negativo</string>
+    <string name="defaultRs">R$0,00</string>
+</resources>
